@@ -1,0 +1,13 @@
+[
+	{
+		"x": -50,
+		"y": -200,
+		"type": "enemy",
+		"health": 20,
+		"attack": 4,
+		"xp": 10,
+		"file_loc": "img/npc/skeleman.png",
+		"serial": "0007"
+	}
+
+]

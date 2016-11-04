@@ -1,0 +1,15 @@
+[	
+  {
+   		"x": 100,
+		"y": 100,
+		"file_x":0,
+        "file_y":0,
+        "width":16,
+        "height":16,
+		"type": "roads",
+        "map_lead_to" : "json/map2.json",
+        "npc_lead_to" : "json/npc1.json"
+  }
+ 
+	
+]
