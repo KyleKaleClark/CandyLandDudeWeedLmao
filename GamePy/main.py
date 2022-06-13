@@ -331,7 +331,7 @@ while not done:
         for i in map_list:
             if i.type != "background":
                 '''*********************************'''
-                '''SPRITE SHEETS ARE MY FUCKING BITCH'''
+                '''SPRITE SHEETS ARE MY  THING      '''
                 '''*********************************'''
                 image = sprite_sheet.image_at([int(i.file_x),int(i.file_y),int(i.width),int(i.height)],(0,0,0,0))
                 #map_draw = pygame.image.load(os.path.join(i.file_loc))
